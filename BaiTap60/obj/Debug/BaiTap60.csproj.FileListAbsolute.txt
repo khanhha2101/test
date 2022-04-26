@@ -1,0 +1,7 @@
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\bin\Debug\BaiTap60.exe.config
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\bin\Debug\BaiTap60.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\bin\Debug\BaiTap60.pdb
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\obj\Debug\BaiTap60.csproj.CoreCompileInputs.cache
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\obj\Debug\BaiTap60.exe
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\obj\Debug\BaiTap60.pdb
+D:\Nam3HK2\C#\demo\BAI TAP TUAN 5\BapTap59\BaiTap60\obj\Debug\BaiTap60.csprojAssemblyReference.cache
